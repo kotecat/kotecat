@@ -1,6 +1,6 @@
 ## Meow, my cats ~
 
-<div>
+<p align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=material-palenight">
@@ -14,4 +14,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=buefy">
 </picture>
 
-</div>
+</p>
