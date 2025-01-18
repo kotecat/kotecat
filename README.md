@@ -1,16 +1,19 @@
-## Hi there 👋
+## Meow, my cats ~
 
-<!--
-**kotecat/kotecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex; align-items: center; flex-direction: column; width: 100%; background: radial-gradient(circle at top left,transparent 9%, #000000 10% ,#000000 15% , transparent 16%) , radial-gradient(circle at bottom left,transparent 9%, #000000 10% ,#000000 15% , transparent 16%), radial-gradient(circle at top right ,transparent 9%, #000000 10% ,#000000 15% , transparent 16%) , radial-gradient(circle at bottom right,transparent 9%, #000000 10% ,#000000 15% , transparent 16%),radial-gradient(circle, transparent 25%, #690aff  26%),linear-gradient(45deg, transparent 46%, #000000 47%, #000000 52%, transparent 53%), linear-gradient(135deg, transparent 46%, #000000 47%, #000000 52%, transparent 53%);
+        background-size: 3em 3em;
+        background-color: #690aff; padding: 35px 0; border-radius: 20px">
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=material-palenight">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=buefy">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=material-palenight">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=buefy">
+</picture>
+
+</div>
